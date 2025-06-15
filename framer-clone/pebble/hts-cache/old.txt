@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+04:57:16	248621/248621	---M-Z	200	added ('OK')	text/html	etag:%222a75bd1dd76a536ea2fb32e302c37fa9%22	https://excellent-evolution-519883.framer.app/	pebble/excellent-evolution-519883.framer.app/index.html	(from )
+04:57:16	110/110	---M-Z	200	added ('OK')	text/plain	etag:%226a496dbcaf6ec571d5e9ad1975282a24%22	https://excellent-evolution-519883.framer.app/robots.txt		(from )
